@@ -27,7 +27,8 @@ Actionable Insights
 - Broker Strategy: Focus on high-value customers, offer tailored discounts, and improve engagement to boost renewal rates.
 - Best Line of Business: Prioritize `Comprehensive` policies due to their high renewal rates and profitability.
 - Customer Retention: Address customer needs proactively to improve satisfaction and retention.
-Quick Link - 
+Quick Link - https://github.com/pixilaswan/pnc_da_project/blob/main/pncda.ipynb
+
 Tools and Technologies
 - Python Libraries**: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scipy`
 - Data Visualization**: Box plots, bar charts, correlation matrices
